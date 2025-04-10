@@ -18,7 +18,7 @@ pkg install python
 pkg install git
 git clone https://github.com/ALAMIN1x/lifetime_calculator
 cd lifetime_calculator
-age.py
+python age.py
 
 এরপর ইনপুট চাওয়া হলে জন্ম ও মৃত্যুর তারিখ দিন এই ফরম্যাটে:
 
